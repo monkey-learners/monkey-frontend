@@ -1,0 +1,22 @@
+.site-page-header {
+  font-style: italic;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: x-large;
+  margin-top: 1%;
+  letter-spacing: 0.3em;
+}
+body {
+  padding-top: 8%;
+}
+.content-design {
+  height: 400px;
+}
+.left-layout-design {
+  background: chocolate;
+  text-align: center;
+}
+.right-form-design {
+  padding-top: 6%;
+  border: 1px solid chocolate;
+}
